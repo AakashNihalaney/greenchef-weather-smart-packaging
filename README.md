@@ -31,13 +31,13 @@ This capstone project was commissioned to close that gap. Drawing on a January 2
 
 A working prototype of an AI-powered packing floor system that dynamically adjusts packaging materials based on destination weather conditions, integrated with Green Chef's existing Katana ERP and Pick-to-Light warehouse systems.
 
-├── app.py              # Streamlit UI — packing floor worker interface
-├── api_client.py       # Katana ERP integration layer
-├── weather_engine.py   # AI Weather Decision Engine
-├── p2l_controller.py   # Pick-to-Light hardware coordinator
-├── database.py         # SQLite database layer
-├── mock_data.json      # Test data: orders across Phoenix AZ, Minneapolis MN, Miami FL
-└── requirements.txt    # Python dependencies
+app.py                  - Streamlit UI, packing floor worker interface
+api_client.py           - Katana ERP integration layer
+weather_engine.py       - AI Weather Decision Engine
+p2l_controller.py       - Pick-to-Light hardware coordinator
+database.py             - SQLite database layer
+mock_data.json          - Test data: orders across Phoenix AZ, Minneapolis MN, Miami FL
+requirements.txt        - Python dependencies
 
 **Weather decision rules:**
 
