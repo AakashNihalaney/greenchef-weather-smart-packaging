@@ -1,0 +1,229 @@
+{
+  "katana_orders": [
+    {
+      "order_id": "GC-2026-0501",
+      "customer_name": "Sarah Mitchell",
+      "delivery_date": "2026-05-06",
+      "delivery_address": "4521 Magnolia Blvd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": "85001",
+      "items": [
+        {"sku": "GC-ING-001", "name": "Boneless Chicken Thighs",    "qty": 2, "weight_kg": 0.340, "unit": "pieces", "category": "protein",  "bag_type": "autobagger_8x13"},
+        {"sku": "GC-ING-002", "name": "Lemon",                       "qty": 2, "weight_kg": 0.100, "unit": "pieces", "category": "produce",  "bag_type": "autobagger_5x11_a"},
+        {"sku": "GC-ING-003", "name": "Fresh Thyme",                 "qty": 1, "weight_kg": 0.020, "unit": "sprig",  "category": "herb",     "bag_type": "autobagger_5x11_a"},
+        {"sku": "GC-ING-004", "name": "Garlic Cloves",               "qty": 4, "weight_kg": 0.016, "unit": "pieces", "category": "produce",  "bag_type": "autobagger_5x11_a"},
+        {"sku": "GC-ING-005", "name": "Baby Spinach",                "qty": 1, "weight_kg": 0.142, "unit": "bag",    "category": "produce",  "bag_type": "autobagger_5x11_b"},
+        {"sku": "GC-ING-006", "name": "Cherry Tomatoes",             "qty": 1, "weight_kg": 0.227, "unit": "punnet", "category": "produce",  "bag_type": "autobagger_5x11_b"},
+        {"sku": "GC-ING-007", "name": "Olive Oil Portion",           "qty": 1, "weight_kg": 0.030, "unit": "sachet", "category": "pantry",   "bag_type": "none"},
+        {"sku": "GC-ING-008", "name": "Herb Seasoning Blend",        "qty": 1, "weight_kg": 0.015, "unit": "sachet", "category": "pantry",   "bag_type": "none"},
+        {"sku": "GC-ING-009", "name": "Balsamic Glaze",              "qty": 1, "weight_kg": 0.040, "unit": "sachet", "category": "sauce",    "bag_type": "none"},
+        {"sku": "GC-ING-010", "name": "Orzo Pasta",                  "qty": 1, "weight_kg": 0.200, "unit": "bag",    "category": "grain",    "bag_type": "autobagger_8x13"}
+      ],
+      "status": "pending"
+    },
+    {
+      "order_id": "GC-2026-0502",
+      "customer_name": "James Okonkwo",
+      "delivery_date": "2026-05-08",
+      "delivery_address": "889 Birchwood Ave",
+      "city": "Minneapolis",
+      "state": "MN",
+      "zip_code": "55401",
+      "items": [
+        {"sku": "GC-ING-011", "name": "Grass-Fed Ground Beef 8oz",   "qty": 2, "weight_kg": 0.454, "unit": "pack",   "category": "protein",  "bag_type": "autobagger_8x13"},
+        {"sku": "GC-ING-012", "name": "Russet Potatoes",              "qty": 3, "weight_kg": 0.200, "unit": "pieces", "category": "produce",  "bag_type": "autobagger_8x13"},
+        {"sku": "GC-ING-013", "name": "Cremini Mushrooms",            "qty": 1, "weight_kg": 0.227, "unit": "pack",   "category": "produce",  "bag_type": "autobagger_5x11_b"},
+        {"sku": "GC-ING-014", "name": "Yellow Onion",                 "qty": 1, "weight_kg": 0.180, "unit": "pieces", "category": "produce",  "bag_type": "autobagger_5x11_b"},
+        {"sku": "GC-ING-015", "name": "Beef Bone Broth Portion",      "qty": 1, "weight_kg": 0.120, "unit": "carton", "category": "pantry",   "bag_type": "none"},
+        {"sku": "GC-ING-016", "name": "Sour Cream Portion",           "qty": 1, "weight_kg": 0.057, "unit": "cup",    "category": "dairy",    "bag_type": "none"},
+        {"sku": "GC-ING-017", "name": "Fresh Chives",                 "qty": 1, "weight_kg": 0.014, "unit": "bunch",  "category": "herb",     "bag_type": "autobagger_5x11_a"},
+        {"sku": "GC-ING-018", "name": "Smoked Paprika Blend",         "qty": 1, "weight_kg": 0.012, "unit": "sachet", "category": "pantry",   "bag_type": "none"},
+        {"sku": "GC-ING-019", "name": "Shredded Cheddar Cheese",      "qty": 1, "weight_kg": 0.113, "unit": "bag",    "category": "dairy",    "bag_type": "autobagger_5x11_b"},
+        {"sku": "GC-ING-020", "name": "Unsalted Butter Portion",      "qty": 2, "weight_kg": 0.028, "unit": "pack",   "category": "dairy",    "bag_type": "none"}
+      ],
+      "status": "pending"
+    },
+    {
+      "order_id": "GC-2026-0503",
+      "customer_name": "Elena Vasquez",
+      "delivery_date": "2026-05-10",
+      "delivery_address": "230 Ocean Drive",
+      "city": "Miami",
+      "state": "FL",
+      "zip_code": "33101",
+      "items": [
+        {"sku": "GC-ING-021", "name": "Wild-Caught Shrimp Peeled",   "qty": 2, "weight_kg": 0.340, "unit": "bag",    "category": "protein",  "bag_type": "autobagger_8x13"},
+        {"sku": "GC-ING-022", "name": "Ripe Avocados",                "qty": 2, "weight_kg": 0.170, "unit": "pieces", "category": "produce",  "bag_type": "autobagger_5x11_b"},
+        {"sku": "GC-ING-023", "name": "Corn Tortillas 6-pack",        "qty": 1, "weight_kg": 0.198, "unit": "pack",   "category": "grain",    "bag_type": "autobagger_8x13"},
+        {"sku": "GC-ING-024", "name": "Shredded Red Cabbage",         "qty": 1, "weight_kg": 0.142, "unit": "bag",    "category": "produce",  "bag_type": "autobagger_5x11_b"},
+        {"sku": "GC-ING-025", "name": "Lime",                         "qty": 2, "weight_kg": 0.067, "unit": "pieces", "category": "produce",  "bag_type": "autobagger_5x11_a"},
+        {"sku": "GC-ING-026", "name": "Jalapeno",                     "qty": 1, "weight_kg": 0.050, "unit": "pieces", "category": "produce",  "bag_type": "autobagger_5x11_a"},
+        {"sku": "GC-ING-027", "name": "Fresh Cilantro",               "qty": 1, "weight_kg": 0.028, "unit": "bunch",  "category": "herb",     "bag_type": "autobagger_5x11_a"},
+        {"sku": "GC-ING-028", "name": "Chipotle Crema",               "qty": 1, "weight_kg": 0.057, "unit": "sachet", "category": "sauce",    "bag_type": "none"},
+        {"sku": "GC-ING-029", "name": "Cumin and Chili Spice Blend",  "qty": 1, "weight_kg": 0.012, "unit": "sachet", "category": "pantry",   "bag_type": "none"},
+        {"sku": "GC-ING-030", "name": "Crumbled Cotija Cheese",       "qty": 1, "weight_kg": 0.057, "unit": "bag",    "category": "dairy",    "bag_type": "autobagger_5x11_a"}
+      ],
+      "status": "pending"
+    },
+    {
+      "order_id": "GC-2026-0504",
+      "customer_name": "Daniel Park",
+      "delivery_date": "2026-05-13",
+      "delivery_address": "17 Beacon Hill Rd",
+      "city": "Boston",
+      "state": "MA",
+      "zip_code": "02108",
+      "items": [
+        {"sku": "GC-ING-031", "name": "Atlantic Salmon Fillet 6oz",  "qty": 2, "weight_kg": 0.340, "unit": "fillet", "category": "protein",  "bag_type": "autobagger_8x13"},
+        {"sku": "GC-ING-032", "name": "Asparagus Spears",             "qty": 1, "weight_kg": 0.227, "unit": "bunch",  "category": "produce",  "bag_type": "autobagger_8x13"},
+        {"sku": "GC-ING-033", "name": "Baby Yukon Gold Potatoes",     "qty": 1, "weight_kg": 0.340, "unit": "bag",    "category": "produce",  "bag_type": "autobagger_8x13"},
+        {"sku": "GC-ING-034", "name": "Capers",                       "qty": 1, "weight_kg": 0.030, "unit": "jar",    "category": "pantry",   "bag_type": "none"},
+        {"sku": "GC-ING-035", "name": "Fresh Dill",                   "qty": 1, "weight_kg": 0.014, "unit": "bunch",  "category": "herb",     "bag_type": "autobagger_5x11_a"},
+        {"sku": "GC-ING-036", "name": "Creme Fraiche Portion",        "qty": 1, "weight_kg": 0.057, "unit": "cup",    "category": "dairy",    "bag_type": "none"},
+        {"sku": "GC-ING-037", "name": "Dijon Mustard Portion",        "qty": 1, "weight_kg": 0.021, "unit": "sachet", "category": "pantry",   "bag_type": "none"},
+        {"sku": "GC-ING-038", "name": "Lemon Caper Butter Blend",     "qty": 1, "weight_kg": 0.035, "unit": "sachet", "category": "sauce",    "bag_type": "none"},
+        {"sku": "GC-ING-039", "name": "Olive Oil Portion",            "qty": 1, "weight_kg": 0.030, "unit": "sachet", "category": "pantry",   "bag_type": "none"},
+        {"sku": "GC-ING-040", "name": "Sea Salt and Cracked Pepper",  "qty": 1, "weight_kg": 0.010, "unit": "sachet", "category": "pantry",   "bag_type": "none"}
+      ],
+      "status": "pending"
+    },
+    {
+      "order_id": "GC-2026-0505",
+      "customer_name": "Priya Sharma",
+      "delivery_date": "2026-05-16",
+      "delivery_address": "602 Wacker Dr Apt 14F",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "60601",
+      "items": [
+        {"sku": "GC-ING-041", "name": "Firm Paneer Cubes",            "qty": 1, "weight_kg": 0.250, "unit": "pack",   "category": "protein",  "bag_type": "autobagger_8x13"},
+        {"sku": "GC-ING-042", "name": "Basmati Rice",                  "qty": 1, "weight_kg": 0.200, "unit": "bag",    "category": "grain",    "bag_type": "autobagger_8x13"},
+        {"sku": "GC-ING-043", "name": "Diced Tomatoes Canned",         "qty": 1, "weight_kg": 0.227, "unit": "can",    "category": "pantry",   "bag_type": "none"},
+        {"sku": "GC-ING-044", "name": "Coconut Milk Portion",          "qty": 1, "weight_kg": 0.180, "unit": "carton", "category": "pantry",   "bag_type": "none"},
+        {"sku": "GC-ING-045", "name": "Fresh Ginger Knob",             "qty": 1, "weight_kg": 0.030, "unit": "pieces", "category": "produce",  "bag_type": "autobagger_5x11_a"},
+        {"sku": "GC-ING-046", "name": "Garlic Cloves",                 "qty": 3, "weight_kg": 0.016, "unit": "pieces", "category": "produce",  "bag_type": "autobagger_5x11_a"},
+        {"sku": "GC-ING-047", "name": "Frozen Baby Peas Portion",      "qty": 1, "weight_kg": 0.113, "unit": "bag",    "category": "produce",  "bag_type": "autobagger_5x11_b"},
+        {"sku": "GC-ING-048", "name": "Tikka Masala Spice Blend",      "qty": 1, "weight_kg": 0.018, "unit": "sachet", "category": "pantry",   "bag_type": "none"},
+        {"sku": "GC-ING-049", "name": "Naan Bread 2-pack",             "qty": 1, "weight_kg": 0.170, "unit": "pack",   "category": "grain",    "bag_type": "autobagger_8x13"},
+        {"sku": "GC-ING-050", "name": "Greek Yogurt Portion",          "qty": 1, "weight_kg": 0.113, "unit": "cup",    "category": "dairy",    "bag_type": "none"}
+      ],
+      "status": "pending"
+    }
+  ],
+
+  "_bom_notes": {
+    "tier1_scope": "Ice pack only: Pelton Shepherd → Nutri-Ice. All other box components unchanged.",
+    "tier2_scope": "Plastic autobagger bags only. Three variants: autobagger_5x11_a, autobagger_5x11_b, autobagger_8x13.",
+    "excluded_from_tier2": [
+      "Exterior cardboard box — already sustainable",
+      "ClimaCell liner — already plant-based and curbside recyclable",
+      "Paper kit bag — already paper",
+      "Recipe card — already paper",
+      "Kit label — not modelled",
+      "Sauce containers — no cost data",
+      "Meat packaging — no cost data",
+      "Spice sachets — not broken out in cost file"
+    ]
+  },
+
+  "packing_materials": {
+    "_comment_box":    "Exterior corrugated cardboard box — already sustainable, no change",
+    "Standard Box":    {"sku": "PKG-BOX-STD",  "bin_id": "BIN-D1", "weight_kg": 0.85,  "sustainable": true,  "tier": "base", "description": "Exterior corrugated cardboard box — already sustainable"},
+
+    "_comment_liner":  "ClimaCell liner — plant-based EPS alternative, curbside recyclable, no change",
+    "ClimaCell Liner": {"sku": "PKG-CLIMACELL","bin_id": "BIN-B1", "weight_kg": 0.22,  "sustainable": true,  "tier": "base", "description": "Plant-based insulated liner, curbside recyclable — no change needed"},
+
+    "_comment_kitbag": "Paper kit bag — already paper, no change",
+    "Paper Kit Bag":   {"sku": "PKG-KITBAG",   "bin_id": "BIN-E1", "weight_kg": 0.04,  "sustainable": true,  "tier": "base", "description": "Paper-based kit bag holding all ingredients — already sustainable"},
+
+    "_comment_card":   "Recipe card — already paper, no change",
+    "Recipe Card":     {"sku": "PKG-CARD",     "bin_id": "BIN-E2", "weight_kg": 0.015, "sustainable": true,  "tier": "base", "description": "Paper recipe card — already sustainable"},
+
+    "_comment_ice_t1": "TIER 1: Nutri-Ice replaces Pelton Shepherd standard ice pack. Scope = ice pack only.",
+    "Nutri-Ice Pack":  {"sku": "PKG-NUTRICE",  "bin_id": "BIN-A1", "weight_kg": 0.340, "sustainable": true,  "tier": "tier1", "description": "Nutri-Ice — Tier 1 replacement for Pelton Shepherd standard ice pack"},
+
+    "_comment_bags":   "TIER 2: Autobagger plastic bags → paper/sustainable alternative (cost modelled only for these three variants)",
+    "Autobagger 5x11 Small (Paper Alt)": {"sku": "PKG-BAG-5S", "bin_id": "BIN-F1", "weight_kg": 0.008, "sustainable": true,  "tier": "tier2", "description": "Replaces Autobagger 5×11.5 small clear perforated plastic bag"},
+    "Autobagger 5x11 Alt (Paper Alt)":   {"sku": "PKG-BAG-5A", "bin_id": "BIN-F2", "weight_kg": 0.009, "sustainable": true,  "tier": "tier2", "description": "Replaces Autobagger 5×11.5 alt clear perforated plastic bag"},
+    "Autobagger 8x13 (Paper Alt)":       {"sku": "PKG-BAG-8",  "bin_id": "BIN-F3", "weight_kg": 0.012, "sustainable": true,  "tier": "tier2", "description": "Replaces Autobagger 8×13.5 clear perforated plastic bag"},
+
+    "_comment_not_modelled": "The following use their ORIGINAL packaging — no cost data or sustainable alternative available yet",
+    "Sauce Container":     {"sku": "PKG-SAUCE", "bin_id": "BIN-G1", "weight_kg": 0.020, "sustainable": false, "tier": "not-modelled", "description": "Sauce container — no cost data for alternative"},
+    "Meat Packaging":      {"sku": "PKG-MEAT",  "bin_id": "BIN-G2", "weight_kg": 0.025, "sustainable": false, "tier": "not-modelled", "description": "Meat/protein packaging — no cost data for alternative"},
+    "Spice Sachet":        {"sku": "PKG-SPICE", "bin_id": "BIN-G3", "weight_kg": 0.005, "sustainable": false, "tier": "not-modelled", "description": "Spice sachet — not broken out in cost file"}
+  },
+
+  "mock_weather": {
+    "85001": {
+      "city": "Phoenix",
+      "current_temp_f": 97,
+      "feels_like_f": 104,
+      "condition": "Sunny",
+      "rain_chance_pct": 4,
+      "forecast": [
+        {"date": "2026-05-06", "high_f": 101, "low_f": 80, "rain_chance_pct": 3,  "condition": "Sunny"},
+        {"date": "2026-05-07", "high_f": 104, "low_f": 83, "rain_chance_pct": 5,  "condition": "Sunny"},
+        {"date": "2026-05-08", "high_f": 99,  "low_f": 78, "rain_chance_pct": 10, "condition": "Partly Cloudy"},
+        {"date": "2026-05-09", "high_f": 96,  "low_f": 76, "rain_chance_pct": 8,  "condition": "Sunny"},
+        {"date": "2026-05-10", "high_f": 102, "low_f": 81, "rain_chance_pct": 2,  "condition": "Sunny"}
+      ]
+    },
+    "55401": {
+      "city": "Minneapolis",
+      "current_temp_f": 52,
+      "feels_like_f": 47,
+      "condition": "Partly Cloudy",
+      "rain_chance_pct": 55,
+      "forecast": [
+        {"date": "2026-05-08", "high_f": 55, "low_f": 44, "rain_chance_pct": 60, "condition": "Rain"},
+        {"date": "2026-05-09", "high_f": 50, "low_f": 40, "rain_chance_pct": 70, "condition": "Heavy Rain"},
+        {"date": "2026-05-10", "high_f": 58, "low_f": 45, "rain_chance_pct": 45, "condition": "Cloudy"},
+        {"date": "2026-05-11", "high_f": 62, "low_f": 48, "rain_chance_pct": 30, "condition": "Partly Cloudy"},
+        {"date": "2026-05-12", "high_f": 65, "low_f": 50, "rain_chance_pct": 20, "condition": "Mostly Sunny"}
+      ]
+    },
+    "33101": {
+      "city": "Miami",
+      "current_temp_f": 88,
+      "feels_like_f": 95,
+      "condition": "Thunderstorm",
+      "rain_chance_pct": 80,
+      "forecast": [
+        {"date": "2026-05-10", "high_f": 91, "low_f": 79, "rain_chance_pct": 85, "condition": "Thunderstorm"},
+        {"date": "2026-05-11", "high_f": 89, "low_f": 77, "rain_chance_pct": 75, "condition": "Rain"},
+        {"date": "2026-05-12", "high_f": 87, "low_f": 76, "rain_chance_pct": 60, "condition": "Showers"},
+        {"date": "2026-05-13", "high_f": 88, "low_f": 77, "rain_chance_pct": 55, "condition": "Partly Cloudy"},
+        {"date": "2026-05-14", "high_f": 90, "low_f": 78, "rain_chance_pct": 40, "condition": "Partly Cloudy"}
+      ]
+    },
+    "02108": {
+      "city": "Boston",
+      "current_temp_f": 61,
+      "feels_like_f": 58,
+      "condition": "Partly Cloudy",
+      "rain_chance_pct": 35,
+      "forecast": [
+        {"date": "2026-05-13", "high_f": 63, "low_f": 52, "rain_chance_pct": 40, "condition": "Showers"},
+        {"date": "2026-05-14", "high_f": 67, "low_f": 54, "rain_chance_pct": 25, "condition": "Partly Cloudy"},
+        {"date": "2026-05-15", "high_f": 70, "low_f": 56, "rain_chance_pct": 15, "condition": "Sunny"},
+        {"date": "2026-05-16", "high_f": 72, "low_f": 58, "rain_chance_pct": 10, "condition": "Sunny"},
+        {"date": "2026-05-17", "high_f": 68, "low_f": 55, "rain_chance_pct": 30, "condition": "Partly Cloudy"}
+      ]
+    },
+    "60601": {
+      "city": "Chicago",
+      "current_temp_f": 65,
+      "feels_like_f": 62,
+      "condition": "Partly Cloudy",
+      "rain_chance_pct": 30,
+      "forecast": [
+        {"date": "2026-05-16", "high_f": 68, "low_f": 55, "rain_chance_pct": 35, "condition": "Showers"},
+        {"date": "2026-05-17", "high_f": 72, "low_f": 58, "rain_chance_pct": 20, "condition": "Partly Cloudy"},
+        {"date": "2026-05-18", "high_f": 75, "low_f": 60, "rain_chance_pct": 15, "condition": "Sunny"},
+        {"date": "2026-05-19", "high_f": 73, "low_f": 59, "rain_chance_pct": 25, "condition": "Partly Cloudy"},
+        {"date": "2026-05-20", "high_f": 70, "low_f": 57, "rain_chance_pct": 40, "condition": "Cloudy"}
+      ]
+    }
+  }
+}
